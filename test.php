@@ -1,6 +1,6 @@
 <?php
 
-$host = "80.247.226.20";
+$host = "81.247.226.20";
 $user = "root";
 $passM = "qX47etHy";
 $bdd = "strategiegrains";
